@@ -1,0 +1,3 @@
+vol1/MNIST/*
+*.drawio
+.vscode/settings.json
